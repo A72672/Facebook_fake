@@ -24,12 +24,13 @@ Para protegerse del phishing, es importante seguir estas recomendaciones:
 4. Mantenga actualizados sus sistemas operativos y programas antivirus para detectar y bloquear posibles ataques de phishing.
 5. Informe cualquier intento de phishing a las autoridades correspondientes y a la empresa o entidad que está siendo suplantada.
 
-<summary>que es Phishing
+<summary>
 </summary></details>
 
 
-???+ example 'instalacion'
-     git clone 
+### instalación
+
+     git clone https://github.com/A72672/Facebook_fake
      
      cd Facebook_fake
      
