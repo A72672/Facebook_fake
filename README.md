@@ -27,13 +27,3 @@ Para protegerse del phishing, es importante seguir estas recomendaciones:
 <summary>
 </summary></details>
 
-
-### instalación
-
-     git clone https://github.com/A72672/Facebook_fake
-     
-     cd Facebook_fake
-     
-     bash run.sh
-     
-
